@@ -1,5 +1,5 @@
 # ZebraAI-Escalation-Case-Assistant
-🤖 2. Zebra AI – Escalation Case Assistant
+🤖 Zebra AI – Escalation Case Assistant
 Industry: AI/ML Automation for Support Engineering
 
 🧠 Project Story
